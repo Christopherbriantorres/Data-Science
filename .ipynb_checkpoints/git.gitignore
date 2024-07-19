@@ -1,1 +1,2 @@
 *.data
+/data/git rm -r --cached data
